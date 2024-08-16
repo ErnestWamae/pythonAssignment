@@ -61,7 +61,7 @@ print(favQuote, " ~ Ernest Wamae");
 #Question 2
 friendName = "Brian"
 greetingOne = "Wsg Bro"
-greetingTwo = "Yea am ayt"
+greetingTwo = "Yea am good"
 
 print(f"Brian : {greetingOne}")
 print(f"Ernest : {greetingTwo}")
